@@ -19,21 +19,21 @@
 * [rathpanyowat/Thai-zip-code-latitude-and-longitude](https://github.com/rathpanyowat/Thai-zip-code-latitude-and-longitude) - รวมพิกัด lat, long ตามรหัสไปรษณีย์ (JSON || Excel)
 * [Siam-Lottery/thai-lottery-widget](https://github.com/Siam-Lottery/thai-lottery-widget) - โค้ดตรวจหวย (PHP)
 
-## GitHub
+## คนไทย(ไฮเปอร์)บน GitHub
 *คนไทยบน GitHub ที่มีการเคลื่อนไหวอย่างต่อเนื่อง (เป็นเจ้าของหรือมีส่วนร่วมใน public repo ที่มีมากกว่า 10 watche/star/fork, และมีการเคลื่อนไหวบน GitHub อย่างน้อย 4 ครั้งต่อเดือนตลอด 6 เดือนที่ผ่านมา หรือมี followers มากกว่า 100 คน)*
 
-* [Thai Pangsakulyanont](https://github.com/dtinth) :star:
+* [Chiang Mai Maker Club](https://github.com/cmmakerclub)
 * [Kan Ouivirach](https://github.com/zkan)
-* [Zack Siri](https://github.com/zacksiri)
-* [สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ (องค์การมหาชน)](https://github.com/ETDA)
-* [Somkiat Puisungnoen](https://github.com/up1)
 * [Kanitkorn Sujautra](https://github.com/lukyth)
-* [Theeraphol Wattanavekin](https://github.com/parnurzeal)
 * [Manatsawin Hanmongkolchai](https://github.com/whs) :star:
 * [Nat Weerawan](https://github.com/NAzT)
-* [Chiang Mai Maker Club](https://github.com/cmmakerclub)
+* [Somkiat Puisungnoen](https://github.com/up1)
+* [Thai Pangsakulyanont](https://github.com/dtinth) :star:
+* [Theeraphol Wattanavekin](https://github.com/parnurzeal)
 * [Saran Tanpituckpong](https://github.com/gluons)
-* [Varayut Lerdkanlayanawat](https://github.com/lvarayut) :star:
+* [Varayut Lerdkanlayanawat](https://github.com/lvarayut)
+* [Zack Siri](https://github.com/zacksiri)
+* [สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ (องค์การมหาชน)](https://github.com/ETDA)
 
 ## บทความ/บล็อก
 *บทความและบล็อกที่น่าสนใจ ไม่เอาสอนเซ็ตอัพ*
