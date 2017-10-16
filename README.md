@@ -12,6 +12,8 @@
 * [ETDA/e-TaxInvoice-PDFgen](https://github.com/ETDA/e-TaxInvoice-PDFgen) - โปรแกรมสร้างใบกํากับภาษีในรูปแบบ PDF/A-3 (C#)
 * [gluons/vue-thailand-address](https://github.com/gluons/vue-thailand-address) - Thai address input for Vue (JavaScript && Vue.js)
 * [greatfriends/ThaiBahtText](https://github.com/greatfriends/ThaiBahtText) - แปลง "121.50 บาท" --> "หนึ่งร้อยยี่สิบเอ็ดบาทห้าสิบสตางค์" (C# || Visual Basic && Javascript)
+* [lvarayut/javascript-style-guide](https://github.com/lvarayut/javascript-style-guide) - คู่มือแนะนำสไตล์การเขียนจาวาสคริปต์ (JavaScript Style Guide)
+* [lvarayut/relay-fullstack](https://github.com/lvarayut/relay-fullstack) - Modern Relay Starter Kit
 * [kittinan/thai-handwriting-number](https://github.com/kittinan/thai-handwriting-number) - Thai handwriting number dataset (Python)
 * [rkcosmos/deepcut](https://github.com/rkcosmos/deepcut) - A Thai word tokenization library using Deep Neural Network (Python) :star:
 * [rathpanyowat/Thai-zip-code-latitude-and-longitude](https://github.com/rathpanyowat/Thai-zip-code-latitude-and-longitude) - รวมพิกัด lat, long ตามรหัสไปรษณีย์ (JSON || Excel)
@@ -31,6 +33,7 @@
 * [Nat Weerawan](https://github.com/NAzT)
 * [Chiang Mai Maker Club](https://github.com/cmmakerclub)
 * [Saran Tanpituckpong](https://github.com/gluons)
+* [Varayut Lerdkanlayanawat](https://github.com/lvarayut) :star:
 
 ## บทความ/บล็อก
 *บทความและบล็อกที่น่าสนใจ ไม่เอาสอนเซ็ตอัพ*
