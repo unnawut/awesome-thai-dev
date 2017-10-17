@@ -54,6 +54,7 @@
 * [Geek อย่างไรไม่ให้โสด](https://www.blognone.com/node/26643) :star:
 * [เบื้องหลังการย้ายช้างยักษ์ (Hadoop) ของ Facebook](https://www.blognone.com/node/25406)
 * [ระบบ Auto Complete ที่อยู่ไทย อย่างที่มันควรเป็น](https://medium.com/@earthchie/%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A-auto-complete-%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99-27360185d86a) :star:
+* [เมื่อฉันเป็น Data Scientist (ฉบับเข้าใจง่าย)](https://pantip.com/topic/36702940)
 * [PHP: The Right Way (ภาษาไทย)](https://apzentral.github.io/php-the-right-way/)
 
 ## ขวัญใจช่างภาพ
