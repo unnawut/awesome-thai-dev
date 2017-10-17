@@ -19,6 +19,19 @@
 * [rathpanyowat/Thai-zip-code-latitude-and-longitude](https://github.com/rathpanyowat/Thai-zip-code-latitude-and-longitude) - รวมพิกัด lat, long ตามรหัสไปรษณีย์ (JSON || Excel)
 * [Siam-Lottery/thai-lottery-widget](https://github.com/Siam-Lottery/thai-lottery-widget) - โค้ดตรวจหวย (PHP)
 
+## คนไทย(ไฮเปอร์)บน StackOverflow
+*คนไทยบน StackOverflow ที่ได้ reputation มากกว่า 5000 แต้ม ให้ดาวถ้าตอบด้วยคำอธิบายละเอียดเป็นประจำ*
+* [chakrit](https://stackoverflow.com/users/3055/chakrit) - javascript, c# :star:
+* [Jirapong](https://stackoverflow.com/users/28843/jirapong) - ruby
+* [sivabudh](https://stackoverflow.com/users/65313/sivabudh) - c++, jquery
+* [Hlung](https://stackoverflow.com/users/467588/hlung) - ios, swift
+* [tia](https://stackoverflow.com/users/397807/tia) - ios, objective-c
+* [Thai](https://stackoverflow.com/users/559913/thai) - javascript, php :star:
+* [wannik](https://stackoverflow.com/users/639616/wannik) - android, java
+* [Charlee Chitsuk](https://stackoverflow.com/users/813999/charlee-chitsuk) - java :star:
+* [LVarayut](https://stackoverflow.com/users/1998136/lvarayut) - javascript, html
+* [Unnawut](https://stackoverflow.com/users/2716927/unnawut) - php
+
 ## คนไทย(ไฮเปอร์)บน GitHub
 *คนไทยบน GitHub ที่มีการเคลื่อนไหวอย่างต่อเนื่อง (เป็นเจ้าของหรือมีส่วนร่วมใน public repo ที่มีมากกว่า 10 watche/star/fork, และมีการเคลื่อนไหวบน GitHub อย่างน้อย 4 ครั้งต่อเดือนตลอด 6 เดือนที่ผ่านมา หรือมี followers มากกว่า 100 คน)*
 
