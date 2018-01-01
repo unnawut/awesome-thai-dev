@@ -41,6 +41,7 @@
 * [Chiang Mai Maker Club](https://github.com/cmmakerclub)
 * [Kan Ouivirach](https://github.com/zkan)
 * [Kanitkorn Sujautra](https://github.com/lukyth)
+* [Komkanit](https://github.com/komcal)
 * [Manatsawin Hanmongkolchai](https://github.com/whs) :star:
 * [Nat Weerawan](https://github.com/NAzT)
 * [Somkiat Puisungnoen](https://github.com/up1)
