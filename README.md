@@ -36,7 +36,7 @@
 * [Unnawut](https://stackoverflow.com/users/2716927/unnawut) - php
 
 ## คนไทย(ไฮเปอร์)บน GitHub
-*คนไทยบน GitHub ที่มีการเคลื่อนไหวอย่างต่อเนื่อง (เป็นเจ้าของหรือมีส่วนร่วมใน public repo ที่มีมากกว่า 10 watche/star/fork, และมีการเคลื่อนไหวบน GitHub อย่างน้อย 4 ครั้งต่อเดือนตลอด 6 เดือนที่ผ่านมา หรือมี followers มากกว่า 100 คน)*
+*คนไทยบน GitHub ที่มีการเคลื่อนไหวอย่างต่อเนื่อง (เป็นเจ้าของหรือมีส่วนร่วมใน public repo ที่มีมากกว่า 10 watch/star/fork, และมีการเคลื่อนไหวบน GitHub อย่างน้อย 4 ครั้งต่อเดือนตลอด 6 เดือนที่ผ่านมา หรือมี followers มากกว่า 100 คน)*
 
 * [Chiang Mai Maker Club](https://github.com/cmmakerclub)
 * [Kan Ouivirach](https://github.com/zkan)
@@ -69,9 +69,6 @@
 
 * [CC :: SOMKIAT](http://www.somkiat.cc/)
 * [NuuNeoI](https://nuuneoi.com/) - Personal Blog of a little full stack developer guy
-
-## ขวัญใจช่างภาพ
-* [Awesome Thai Girls](https://github.com/tostyle/awesome-thai-girls) :star::star::star:
 
 # ลิขสิทธิ์
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
