@@ -64,11 +64,12 @@
 * [แนวทางการคิดราคาค่าออกแบบ](http://mennstudio.com/2014/design-price-cost-value/)
 * [PHP: The Right Way (ภาษาไทย)](https://apzentral.github.io/php-the-right-way/)
 
-## เว็บไซต์/บล็อก
+## เว็บไซต์/บล็อก/ฯลฯ
 *คล้าย ๆ บทความ แต่เป็นเว็บไซต์/บล็อกที่รวบรวมบทความหรือบล็อกโพสต์ที่น่าสนใจหลาย ๆ อันเอาไว้ เหมาะแก่การอ่านเพื่อทำความเข้าใจสถาปัตยกรรม อัลกอริธึม หรือแนวคิดแก้ไขปัญหาในบริบทของคนไทย สังคมไทย หรือประเทศไทย ที่หาไม่ได้ตามหนังสือ ไม่สอนเซ็ตอัพ ไม่สอนใช้ ... กันเถอะ ที่ควรหาได้ตาม documentation อยู่แล้ว*
 
 * [CC :: SOMKIAT](http://www.somkiat.cc/)
 * [NuuNeoI](https://nuuneoi.com/) - Personal Blog of a little full stack developer guy
+* [ThaiProgrammer/tech-events-calendar](https://github.com/ThaiProgrammer/tech-events-calendar) - ปฏิทินงาน tech ที่เกี่ยวข้องกับนักพัฒนาชาวไทย เริ่มต้นปี 2018
 
 # ลิขสิทธิ์
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
