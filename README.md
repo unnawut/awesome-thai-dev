@@ -33,7 +33,6 @@
 * [wannik](https://stackoverflow.com/users/639616/wannik) - android, java
 * [Charlee Chitsuk](https://stackoverflow.com/users/813999/charlee-chitsuk) - java :star:
 * [LVarayut](https://stackoverflow.com/users/1998136/lvarayut) - javascript, html
-* [Unnawut](https://stackoverflow.com/users/2716927/unnawut) - php
 
 ## คนไทย(ไฮเปอร์)บน GitHub
 *คนไทยบน GitHub ที่มีการเคลื่อนไหวอย่างต่อเนื่อง (เป็นเจ้าของหรือมีส่วนร่วมใน public repo ที่มีมากกว่า 10 watch/star/fork, และมีการเคลื่อนไหวบน GitHub อย่างน้อย 4 ครั้งต่อเดือนตลอด 6 เดือนที่ผ่านมา หรือมี followers มากกว่า 100 คน)*
