@@ -23,7 +23,7 @@
 * [kittinan/thai-handwriting-number](https://github.com/kittinan/thai-handwriting-number) - Thai handwriting number dataset (Python)
 * [rkcosmos/deepcut](https://github.com/rkcosmos/deepcut) - A Thai word tokenization library using Deep Neural Network (Python) :star:
 * [rathpanyowat/Thai-zip-code-latitude-and-longitude](https://github.com/rathpanyowat/Thai-zip-code-latitude-and-longitude) - รวมพิกัด lat, long ตามรหัสไปรษณีย์ (JSON || Excel)
-* [aaronamm/thai-administrative-division-province-district-subdistrict-sql](https://github.com/aaronamm/thai-administrative-division-province-district-subdistrict-sql) - ฐานข้อมูล จังหวัด อำเภอ ตำบล ละติจูด ลองจิจูด
+* [codesanook/thailand-administrative-division-province-district-subdistrict-sql](https://github.com/codesanook/thailand-administrative-division-province-district-subdistrict-sql) - ฐานข้อมูล จังหวัด อำเภอ ตำบล ละติจูด ลองจิจูด
 * [Siam-Lottery/thai-lottery-widget](https://github.com/Siam-Lottery/thai-lottery-widget) - โค้ดตรวจหวย (PHP)
 
 ## คนไทย(ไฮเปอร์)บน StackOverflow
