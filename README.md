@@ -5,7 +5,7 @@
 
 ## ปฏิทินสำหรับนักพัฒนาชาวไทย
 
-* [calendar.thaiprogrammer.org](https://calendar.thaiprogrammer.org/) - ปฏิทินงาน tech ที่เกี่ยวข้องกับนักพัฒนาชาวไทย เริ่มต้นปี 2018
+* [th.techcal.dev](https://th.techcal.dev/) - ปฏิทินงาน tech ที่เกี่ยวข้องกับนักพัฒนาชาวไทย
 
 ## ไลบรารี่
 *เฉพาะไลบรารี่ที่เหมาะแก่การศึกษาเพื่อทำความเข้าใจสถาปัตยกรรม อัลกอริธึม หรือแนวคิดแก้ไขปัญหาในบริบทของคนไทย สังคมไทย หรือประเทศไทย หรือไลบรารี่ของคนไทยที่ได้รับความนิยมในระดับนานาชาติ*
@@ -58,6 +58,7 @@
 ## บทความ
 *บทความและบล็อกโพสต์ที่น่าสนใจ เหมาะแก่การอ่านเพื่อทำความเข้าใจสถาปัตยกรรม อัลกอริธึม หรือแนวคิดแก้ไขปัญหาในบริบทของคนไทย สังคมไทย หรือประเทศไทย ที่หาไม่ได้ตามหนังสือ ไม่เอาสอนเซ็ตอัพ ไม่สอนใช้ ... กันเถอะ ที่ควรหาได้ตาม documentation อยู่แล้ว*
 
+* [Identifying the Sources of Winter Air Pollution in Bangkok](https://medium.com/@worasom/scraping-air-pollution-data-from-thailand-epa-a866f291c06) ([Part I](https://medium.com/@worasom/scraping-air-pollution-data-from-thailand-epa-a866f291c06)) ([Part II](https://towardsdatascience.com/identifying-the-sources-of-winter-air-pollution-in-bangkok-part-ii-72539f9b767a)) ([Technical Blog](https://medium.com/@worasom/scraping-air-pollution-data-from-thailand-epa-a866f291c06)) ([Code](https://github.com/worasom/aqi_thailand)) :star:
 * [ทำไม Pantip ปิดปรับปรุงบ่อย บทเรียน ความเจ็บปวด และคราบน้ำตาจาก MongoDB](https://pantip.com/topic/31115168) :star:
 * [Geek อย่างไรไม่ให้โสด](https://www.blognone.com/node/26643) :star:
 * [เบื้องหลังการย้ายช้างยักษ์ (Hadoop) ของ Facebook](https://www.blognone.com/node/25406)
