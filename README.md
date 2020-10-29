@@ -78,6 +78,7 @@
 * [codesanook.com](https://codesanook.com) หลากหลายบทความเกี่ยวกับ programming โดยทีมงาน Codesanook
 * [codesanook free programming ebooks, tutorials and resources](https://github.com/codesanook/codesanook-free-programming-ebooks-tutorials-and-resources) แหล่งรวมหนังสือ วิดีโอ และแหล่งความรู้การเขียนโปรแกรมแบบฟรี ๆ แบ่งเป็นหมวดหมู่ให้ค้นหาได้ง่าย
 * [Chris](https://medium.com/@chrisza)
+* [Line Developers Thailand](https://medium.com/linedevth)
 
 # ลิขสิทธิ์
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
