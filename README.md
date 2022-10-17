@@ -25,6 +25,7 @@
 * [rathpanyowat/Thai-zip-code-latitude-and-longitude](https://github.com/rathpanyowat/Thai-zip-code-latitude-and-longitude) - รวมพิกัด lat, long ตามรหัสไปรษณีย์ (JSON || Excel)
 * [codesanook/thailand-administrative-division-province-district-subdistrict-sql](https://github.com/codesanook/thailand-administrative-division-province-district-subdistrict-sql) - ฐานข้อมูล จังหวัด อำเภอ ตำบล ละติจูด ลองจิจูด
 * [Siam-Lottery/thai-lottery-widget](https://github.com/Siam-Lottery/thai-lottery-widget) - โค้ดตรวจหวย (PHP)
+* [vue-thailand-address](https://github.com/gluons/vue-thailand-address) - ตัวช่วยกรอกที่อยู่ของไทย สำหรับ Vue
 
 ## คนไทย(ไฮเปอร์)บน StackOverflow
 *คนไทยบน StackOverflow ที่ได้ reputation มากกว่า 5000 แต้ม ให้ดาวถ้าตอบด้วยคำอธิบายละเอียดเป็นประจำ*
