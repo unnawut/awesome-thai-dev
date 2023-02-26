@@ -26,7 +26,10 @@
 * [codesanook/thailand-administrative-division-province-district-subdistrict-sql](https://github.com/codesanook/thailand-administrative-division-province-district-subdistrict-sql) - ฐานข้อมูล จังหวัด อำเภอ ตำบล ละติจูด ลองจิจูด
 * [Siam-Lottery/thai-lottery-widget](https://github.com/Siam-Lottery/thai-lottery-widget) - โค้ดตรวจหวย (PHP)
 * [vue-thailand-address](https://github.com/gluons/vue-thailand-address) - ตัวช่วยกรอกที่อยู่ของไทย สำหรับ Vue
-
+* [konjingjing](https://github.com/wasdee/konjingjing) - hyper-fast Python module for validating Thai Citizen Card ID written in Rust
+* [thanakan](https://github.com/codustry/thanakan) - Python Interface for Thai Bank API, KBANK, SCB, QR Code and slip verification.
+  
+  
 ## คนไทย(ไฮเปอร์)บน StackOverflow
 *คนไทยบน StackOverflow ที่ได้ reputation มากกว่า 5000 แต้ม ให้ดาวถ้าตอบด้วยคำอธิบายละเอียดเป็นประจำ*
 * [chakrit](https://stackoverflow.com/users/3055/chakrit) - javascript, c# :star:
