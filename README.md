@@ -26,7 +26,7 @@
 * [codesanook/thailand-administrative-division-province-district-subdistrict-sql](https://github.com/codesanook/thailand-administrative-division-province-district-subdistrict-sql) - ฐานข้อมูล จังหวัด อำเภอ ตำบล ละติจูด ลองจิจูด
 * [Siam-Lottery/thai-lottery-widget](https://github.com/Siam-Lottery/thai-lottery-widget) - โค้ดตรวจหวย (PHP)
 * [vue-thailand-address](https://github.com/gluons/vue-thailand-address) - ตัวช่วยกรอกที่อยู่ของไทย สำหรับ Vue
-* [awesome-bangkok](https://github.com/wasdee/awesome-bangkok) - a curation of digital Bangkok including, but not limit to webapp, data sources, projects, etc.
+
 
 ## คนไทย(ไฮเปอร์)บน StackOverflow
 *คนไทยบน StackOverflow ที่ได้ reputation มากกว่า 5000 แต้ม ให้ดาวถ้าตอบด้วยคำอธิบายละเอียดเป็นประจำ*
@@ -81,6 +81,8 @@
 * [codesanook free programming ebooks, tutorials and resources](https://github.com/codesanook/codesanook-free-programming-ebooks-tutorials-and-resources) แหล่งรวมหนังสือ วิดีโอ และแหล่งความรู้การเขียนโปรแกรมแบบฟรี ๆ แบ่งเป็นหมวดหมู่ให้ค้นหาได้ง่าย
 * [Chris](https://medium.com/@chrisza)
 * [Line Developers Thailand](https://medium.com/linedevth)
+* [awesome-bangkok](https://github.com/wasdee/awesome-bangkok) - a curation of digital Bangkok including, but not limit to webapp, data sources, projects, etc.
+
 
 # ลิขสิทธิ์
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
