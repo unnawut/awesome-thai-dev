@@ -26,6 +26,9 @@
 * [codesanook/thailand-administrative-division-province-district-subdistrict-sql](https://github.com/codesanook/thailand-administrative-division-province-district-subdistrict-sql) - ฐานข้อมูล จังหวัด อำเภอ ตำบล ละติจูด ลองจิจูด
 * [Siam-Lottery/thai-lottery-widget](https://github.com/Siam-Lottery/thai-lottery-widget) - โค้ดตรวจหวย (PHP)
 * [vue-thailand-address](https://github.com/gluons/vue-thailand-address) - ตัวช่วยกรอกที่อยู่ของไทย สำหรับ Vue
+* [pythainav](https://github.com/wasdee/pythainav) - ดึงข้อมูลกองทุนไทย (Python)
+* [thaifin](https://github.com/wasdee/thaifin) - ดึงข้อมูลพื้นฐานหุ้น (Python)
+* [borisat](https://github.com/wasdee/borisat) - ดึงข้อมูลชื่อและที่อยู่บริษัทจากเลขที่ประจำตัวผู้เสียภาษี (Python)
 
 ## คนไทย(ไฮเปอร์)บน StackOverflow
 *คนไทยบน StackOverflow ที่ได้ reputation มากกว่า 5000 แต้ม ให้ดาวถ้าตอบด้วยคำอธิบายละเอียดเป็นประจำ*
