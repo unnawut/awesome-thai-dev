@@ -31,6 +31,7 @@
 * [borisat](https://github.com/wasdee/borisat) - ดึงข้อมูลชื่อและที่อยู่บริษัทจากเลขที่ประจำตัวผู้เสียภาษี (Python)
 * [konjingjing](https://github.com/wasdee/konjingjing) - hyper-fast Python module for validating Thai Citizen Card ID written in Rust
 * [thanakan](https://github.com/codustry/thanakan) - Python Interface for Thai Bank API, KBANK, SCB, QR Code and slip verification.
+* [elysiajs](https://elysiajs.com/) - TypeScript framework supercharged by Bun, โดยคุณ [SaltyAom](https://github.com/SaltyAom)
 
 ## คนไทย(ไฮเปอร์)บน StackOverflow
 *คนไทยบน StackOverflow ที่ได้ reputation มากกว่า 5000 แต้ม ให้ดาวถ้าตอบด้วยคำอธิบายละเอียดเป็นประจำ*
