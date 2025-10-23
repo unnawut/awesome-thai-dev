@@ -26,10 +26,10 @@
 * [codesanook/thailand-administrative-division-province-district-subdistrict-sql](https://github.com/codesanook/thailand-administrative-division-province-district-subdistrict-sql) - ฐานข้อมูล จังหวัด อำเภอ ตำบล ละติจูด ลองจิจูด
 * [Siam-Lottery/thai-lottery-widget](https://github.com/Siam-Lottery/thai-lottery-widget) - โค้ดตรวจหวย (PHP)
 * [vue-thailand-address](https://github.com/gluons/vue-thailand-address) - ตัวช่วยกรอกที่อยู่ของไทย สำหรับ Vue
-* [pythainav](https://github.com/wasdee/pythainav) - ดึงข้อมูลกองทุนไทย (Python)
-* [thaifin](https://github.com/wasdee/thaifin) - ดึงข้อมูลพื้นฐานหุ้น (Python)
-* [borisat](https://github.com/wasdee/borisat) - ดึงข้อมูลชื่อและที่อยู่บริษัทจากเลขที่ประจำตัวผู้เสียภาษี (Python)
-* [konjingjing](https://github.com/wasdee/konjingjing) - hyper-fast Python module for validating Thai Citizen Card ID written in Rust
+* [pythainav](https://github.com/ninyawee/pythainav) - ดึงข้อมูลกองทุนไทย (Python)
+* [thaifin](https://github.com/ninyawee/thaifin) - ดึงข้อมูลพื้นฐานหุ้น (Python)
+* [borisat](https://github.com/ninyawee/borisat) - ดึงข้อมูลชื่อและที่อยู่บริษัทจากเลขที่ประจำตัวผู้เสียภาษี (Python)
+* [konjingjing](https://github.com/ninyawee/konjingjing) - hyper-fast Python module for validating Thai Citizen Card ID written in Rust
 * [pythaiidcard](https://github.com/ninyawee/pythaiidcard) - อ่านข้อมูลบัตรประชาชนไทยด้วย smartcard reader (Python)
 * [thanakan](https://github.com/codustry/thanakan) - Python Interface for Thai Bank API, KBANK, SCB, QR Code and slip verification.
 * [elysiajs](https://elysiajs.com/) - TypeScript framework supercharged by Bun, โดยคุณ [SaltyAom](https://github.com/SaltyAom)
@@ -87,7 +87,7 @@
 * [codesanook free programming ebooks, tutorials and resources](https://github.com/codesanook/codesanook-free-programming-ebooks-tutorials-and-resources) แหล่งรวมหนังสือ วิดีโอ และแหล่งความรู้การเขียนโปรแกรมแบบฟรี ๆ แบ่งเป็นหมวดหมู่ให้ค้นหาได้ง่าย
 * [Chris](https://medium.com/@chrisza)
 * [Line Developers Thailand](https://medium.com/linedevth)
-* [awesome-bangkok](https://github.com/wasdee/awesome-bangkok) - a curation of digital Bangkok including, but not limit to webapp, data sources, projects, etc.
+* [awesome-bangkok](https://github.com/ninyawee/awesome-bangkok) - a curation of digital Bangkok including, but not limit to webapp, data sources, projects, etc.
 
 
 # ลิขสิทธิ์
