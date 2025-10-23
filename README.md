@@ -30,6 +30,7 @@
 * [thaifin](https://github.com/wasdee/thaifin) - ดึงข้อมูลพื้นฐานหุ้น (Python)
 * [borisat](https://github.com/wasdee/borisat) - ดึงข้อมูลชื่อและที่อยู่บริษัทจากเลขที่ประจำตัวผู้เสียภาษี (Python)
 * [konjingjing](https://github.com/wasdee/konjingjing) - hyper-fast Python module for validating Thai Citizen Card ID written in Rust
+* [pythaiidcard](https://github.com/ninyawee/pythaiidcard) - อ่านข้อมูลบัตรประชาชนไทยด้วย smartcard reader (Python)
 * [thanakan](https://github.com/codustry/thanakan) - Python Interface for Thai Bank API, KBANK, SCB, QR Code and slip verification.
 * [elysiajs](https://elysiajs.com/) - TypeScript framework supercharged by Bun, โดยคุณ [SaltyAom](https://github.com/SaltyAom)
 
