@@ -18,6 +18,7 @@
 * [gluons/vue-thailand-address](https://github.com/gluons/vue-thailand-address) - Thai address input for Vue (JavaScript && Vue.js)
 * [greatfriends/ThaiBahtText](https://github.com/greatfriends/ThaiBahtText) - แปลง "121.50 บาท" --> "หนึ่งร้อยยี่สิบเอ็ดบาทห้าสิบสตางค์" (C# || Visual Basic && Javascript)
 * [kobkrit/nlp_thai_resources](https://github.com/kobkrit/nlp_thai_resources) - 30+ collections of Thai Natural Language Processing libraries.
+* [klanarongz2009-sketch/ter-ai](https://github.com/klanarongz2009-sketch/ter-ai) - Offline-first Thai intent routing with typo tolerance (Python; CPU-only, no runtime dependencies). [v0.18.0](https://github.com/klanarongz2009-sketch/ter-ai/releases/tag/v0.18.0)
 * [lvarayut/javascript-style-guide](https://github.com/lvarayut/javascript-style-guide) - คู่มือแนะนำสไตล์การเขียนจาวาสคริปต์ (JavaScript Style Guide)
 * [lvarayut/relay-fullstack](https://github.com/lvarayut/relay-fullstack) - Modern Relay Starter Kit
 * [kittinan/thai-handwriting-number](https://github.com/kittinan/thai-handwriting-number) - Thai handwriting number dataset (Python)
